@@ -1,5 +1,5 @@
 module.exports = {
-    "token": "", //botfather http api token
-    "joinchat": "", //joinchat fragment (t.me/joinchat/THIS) of the channel
-    "id": "" //id of the channel
+    "token": " 1217903855:AAHxCUZFxAYowKx3qu6qIxmWGgDIHNY-tYA",
+    "joinchat": " http://t.me/Kushaldlbot", 
+    "id": " 689361533 "
 }
